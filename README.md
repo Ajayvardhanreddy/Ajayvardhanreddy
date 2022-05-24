@@ -1,15 +1,18 @@
 <p align="center"><b>Self belief can move mountains!</b></p>
 
-<h1 align="center">Hi there👋, I'm Ajay Vardhan Reddy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvardhanreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvardhanreddy" /> </p>
 
-- I'm a Co-founder and Lead Instructor at [EpsilonPi](https://www.linkedin.com/company/epsilonpi/), a Full Stack Python Developer, content creator at Linkedin, and also helping people to pursue careers in Development, Data Science and Machine Learning.
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" height="200"/><br/>
+&nbsp;
+<h1 align="center">Hi there👋</h1>
+
+
+- 😃 I'm a Co-founder and Lead Instructor at [EpsilonPi](https://www.linkedin.com/company/epsilonpi/), a Full Stack Python Developer, content creator at Linkedin, and also helping people to pursue careers in Development, Data Science and Machine Learning.
 
 - 🌱 I’m currently learning **React, Docker, Cloud**
 
 - 💬 Ask me about **Python, Django, Flask, ReactJS, DSA**
 
-- 📫 How to reach me **vardhanreddyajay@gmail.com**
+- 📫 How to reach me [Linkedin](https://linkedin.com/in/ajayvardhanreddy)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15lm58H0OoZV5KdtiBfmaXVRHVIkEGOoQ/view?usp=drivesdk](https://drive.google.com/file/d/15lm58H0OoZV5KdtiBfmaXVRHVIkEGOoQ/view?usp=drivesdk)
 
@@ -27,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayvardhanreddy&show_icons=true&locale=en" alt="ajayvardhanreddy" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvardhanreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvardhanreddy" /> </p>
