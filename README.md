@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Linkedin](https://linkedin.com/in/ajayvardhanreddy)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15lm58H0OoZV5KdtiBfmaXVRHVIkEGOoQ/view?usp=drivesdk](https://drive.google.com/file/d/15lm58H0OoZV5KdtiBfmaXVRHVIkEGOoQ/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lm58H0OoZV5KdtiBfmaXVRHVIkEGOoQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
