@@ -6,7 +6,7 @@
 <h1 align="center">Hi there👋</h1>
 
 
-- 😃 I'm a Softwware Engineer at @Navtech, Co-founder and Lead Instructor at [EpsilonPi](https://www.linkedin.com/company/epsilonpi/), a Full Stack Python Developer, content creator at Linkedin, and also helping people to pursue careers in Development, Data Science and Machine Learning.
+- 😃 I'm currently working as a Softwware Engineer at @Navtech, Co-founder and Lead Instructor at [EpsilonPi](https://www.linkedin.com/company/epsilonpi/), a Full Stack Python Developer, content creator at Linkedin, and also helping people to pursue careers in Development, Data Science and Machine Learning.
 
 - 🌱 I’m currently learning **React, Docker, Cloud**
 
